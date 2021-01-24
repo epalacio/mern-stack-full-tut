@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://estiAdmin:Rubik0635@devconnector.mgqek.mongodb.net/devConnectorDB?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://estiAdmin:Rubik0635@devconnector.mgqek.mongodb.net/devConnectorDB?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
 }
